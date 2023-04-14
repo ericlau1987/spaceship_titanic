@@ -17,3 +17,7 @@ test.csv - Personal records for the remaining one-third (~4300) of the passenger
 sample_submission.csv - A submission file in the correct format.
 PassengerId - Id for each passenger in the test set.
 Transported - The target. For each passenger, predict either True or False.
+<br><br>
+reference:
+https://www.kaggle.com/code/averma111/spaceship-titanic-score-0-94/notebook<br>
+https://www.kaggle.com/code/ximader/spaceship-titanic-catboost-acc-80-8<br>
